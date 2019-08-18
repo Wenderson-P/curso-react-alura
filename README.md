@@ -1,5 +1,12 @@
-Projeto feito atráves das video-aulas do curso de react da alura. 
-Simples, mas que tem toda a base para um bom front-end
+Projeto feito atráves das video-aulas do curso de react da alura. <br>
+Simples, mas que tem toda a base para um bom desenvolvimento front-end
+
+[English]
+Project made from the video lessons of the alura react course. <br/>
+Simple but has a good foundation for a front end development
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
