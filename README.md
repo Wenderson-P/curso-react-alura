@@ -1,3 +1,6 @@
+Projeto feito atráves das video-aulas do curso de react da alura. 
+Simples, mas que tem toda a base para um bom front-end
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
